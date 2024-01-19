@@ -1,0 +1,5 @@
+Streamlit == 1.23.1
+Pandas == 2.0.2
+numpy == 1.24.3
+gspread == 5.10.0
+oauth2client == 4.1.3
