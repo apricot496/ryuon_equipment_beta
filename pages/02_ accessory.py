@@ -5,7 +5,7 @@ import gspread
 from google.oauth2 import service_account
 
 
-@st.cache_resource
+# @st.cache_resource
 
 def load_data_csv(equipment):
     #sobiフォルダからのデータの読み込み
